@@ -1,2 +1,2 @@
-# Ekobit-Exercises
+# Ekobit-Traning-Exercises 
 Ekobit-Exercises
